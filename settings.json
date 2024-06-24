@@ -47,5 +47,9 @@
     "source",
     "track",
     "wbr"
-  ]
+  ],
+  // .vscode file
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
 }
