@@ -1,0 +1,51 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "editor.fontSize": 22,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "workbench.colorTheme": "Dracula",
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.commandsToSkipShell": ["code runner"],
+  "vsicons.dontShowNewVersionMessage": true,
+  "notebook.output.textLineLimit": 20,
+  "code-runner.runInTerminal": true,
+  "git.openRepositoryInParentFolders": "always",
+  "json.schemas": [],
+  "liveSassCompile.settings.autoprefix": [],
+  // liveSass setup
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "auto-close-tag.excludedTags": [
+    "area",
+    "base",
+    "br",
+    "col",
+    "command",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "keygen",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr"
+  ]
+}
